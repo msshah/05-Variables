@@ -1,7 +1,8 @@
 /**
+	* Copyright (c) 2017 Mian Safyan Shah
 	*
-	* Written by Mian Safyan Shah
-	* Contact : safyanshah@live.com
+	* WRITTEN BY	: MIAN SAFYAN SHAH
+	* CONTACT	: safyanshah@live.com
 	*
 	* This program demonstrates the use of Variables in C.
 	*
